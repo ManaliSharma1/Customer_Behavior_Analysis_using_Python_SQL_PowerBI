@@ -28,6 +28,16 @@ It follows an end-to-end workflow using **Python for data cleaning**, **PostgreS
 
 ---
 
+### 📈 **Insight Summary**
+- **Subscribers are more profitable**, spending more and shopping more frequently.
+- **Clothing and Accessories lead revenue**, while other categories need promotion.
+- **Young adults and middle-aged customers drive most sales**, making them key targets.
+- **Discounts boost purchases but can reduce margins** if not controlled.
+- **Free/fast shipping encourages higher spending and retention.**
+- **Higher-rated products sell better**, emphasizing the value of quality and reviews.
+
+---
+
 ### 📊 **Dashboard Preview**
 Here is a visual summary of the customer behavior analysis:
 
