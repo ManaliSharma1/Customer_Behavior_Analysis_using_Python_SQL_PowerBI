@@ -6,10 +6,10 @@ This project analyzes customer shopping behavior across different product catego
 It follows an end-to-end workflow using **Python for data cleaning**, **PostgreSQL for structured business queries**, and **Power BI for dashboard visualization**.
 
 ### **Objectives**
-- ✔ **Understand customer purchase trends**
-- ✔ **Compare spending across demographics**
-- ✔ **Identify high-value customers & subscribers**
-- ✔ **Evaluate the impact of discounts on revenue**
+- **Understand customer purchase trends**
+- **Compare spending across demographics**
+- **Identify high-value customers & subscribers**
+- **Evaluate the impact of discounts on revenue**
 
 ### **Tools & Skills**
 
