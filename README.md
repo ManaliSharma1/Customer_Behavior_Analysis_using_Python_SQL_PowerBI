@@ -1,23 +1,17 @@
-# 🛒 **Customer Behavior Analysis (Python + SQL + Power BI)**  
+# **Customer Behavior Analysis (Python + SQL + Power BI)**  
 **End-to-end analysis of customer spending trends using Python, SQL & Power BI.**
 
----
-
-### 📌 **Overview**
+### **Overview**
 This project analyzes customer shopping behavior across different product categories to uncover **spending trends, subscription patterns, product demand, and revenue drivers**.  
 It follows an end-to-end workflow using **Python for data cleaning**, **PostgreSQL for structured business queries**, and **Power BI for dashboard visualization**.
 
----
-
-### 🎯 **Objectives**
+### **Objectives**
 - ✔ **Understand customer purchase trends**
 - ✔ **Compare spending across demographics**
 - ✔ **Identify high-value customers & subscribers**
 - ✔ **Evaluate the impact of discounts on revenue**
 
----
-
-### 🧰 **Tools & Skills**
+### **Tools & Skills**
 
 | Area | Tools / Skills |
 |------|---------------|
@@ -26,9 +20,7 @@ It follows an end-to-end workflow using **Python for data cleaning**, **PostgreS
 | **Power BI** | Visualizations, KPIs, interactive dashboard |
 | **Data Skills** | Data cleaning, EDA, feature engineering, business analysis |
 
----
-
-### 📈 **Insight Summary**
+### **Insight Summary**
 - **Subscribers are more profitable**, spending more and shopping more frequently.
 - **Clothing and Accessories lead revenue**, while other categories need promotion.
 - **Young adults and middle-aged customers drive most sales**, making them key targets.
@@ -36,9 +28,7 @@ It follows an end-to-end workflow using **Python for data cleaning**, **PostgreS
 - **Free/fast shipping encourages higher spending and retention.**
 - **Higher-rated products sell better**, emphasizing the value of quality and reviews.
 
----
-
-### 📊 **Dashboard Preview**
+### **Dashboard Preview**
 Here is a visual summary of the customer behavior analysis:
 
 ![Dashboard](dashboard.png)
